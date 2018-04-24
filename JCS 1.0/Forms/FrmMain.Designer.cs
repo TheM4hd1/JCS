@@ -350,7 +350,7 @@
             // 
             // columnHeader2
             // 
-            this.columnHeader2.Text = "Vulnerabality";
+            this.columnHeader2.Text = "Vulnerability";
             this.columnHeader2.Width = 400;
             // 
             // columnHeader3
