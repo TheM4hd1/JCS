@@ -6,7 +6,7 @@ JCS can also create a Report in HTML for you.
 
 ![](https://raw.githubusercontent.com/TheM4hd1/JCS/master/Screenshots/db.jpg)
 
-Features:
+### Features:
 * Multi-Thread
 * Delay between requests
 * Custom Http Headers
@@ -21,6 +21,9 @@ Features:
    * Searching in HTML tags  example: <title>not found</title>
    * Checking Http Status Code
 
-Report Sample:
+### Compiling
+
+Open the project in Visual Studio and click build
+### Report Sample:
 
 ![](https://raw.githubusercontent.com/TheM4hd1/JCS/master/Screenshots/report.jpg)
